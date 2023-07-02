@@ -5,8 +5,8 @@
 -  📫 How to reach me: by email : radina.avramova@gmail.com, by phone: 0886984716
 -  👨‍💻 All of my projects are available at : https://github.com/RadinaAvramova
 
-Skills
-Programming Languages : [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,oracle,sql,mocha,postman,linux,git,arduino)](https://skills.thijs.gg)
+
+My skills : [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,oracle,sql,mocha,postman,linux,git,arduino)](https://skills.thijs.gg)
 
 
 
