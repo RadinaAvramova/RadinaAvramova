@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Radina
 
 - 🔭 I’m currently working on my portfolio projects for Junoior Front End jobs
-- 🌱 I’m currently learning JavaScript, HTML, CSS. I have a knowledge in C, SQL, Mathlab/Scilab.
+- 🌱 I’m currently learning in Software University.
 -  📫 How to reach me: by email : radina.avramova@gmail.com, by phone: 0886984716
 -  👨‍💻 All of my projects are available at : https://github.com/RadinaAvramova
 
