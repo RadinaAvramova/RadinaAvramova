@@ -1,5 +1,7 @@
 ### Hello 👋, I'm Radina
 
+A passionate frontend developer from Bulgaria
+
 <!--
 **RadinaAvramova/RadinaAvramova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
