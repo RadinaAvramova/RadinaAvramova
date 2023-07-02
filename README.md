@@ -1,14 +1,16 @@
 ### Hello 👋, I'm Radina
+- 🔭 I’m currently working on my portfolio projects for Junoior Front End jobs
+- 🌱 I’m currently learning JavaScript, HTML, CSS. I have a knowledge in C, SQL, Mathlab/Scilab.
+-  📫 How to reach me: ...
 
-A passionate frontend developer from Bulgaria
+- 
 
 <!--
 **RadinaAvramova/RadinaAvramova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
