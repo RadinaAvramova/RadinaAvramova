@@ -6,7 +6,7 @@
 -  👨‍💻 All of my projects are available at : https://github.com/RadinaAvramova
 
 Skills
-Programming Languages : [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+Programming Languages : [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,oracle,sql,mocha,postman,linux,git,arduino)](https://skills.thijs.gg)
 
 
 
