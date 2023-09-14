@@ -6,7 +6,7 @@
 -  👨‍💻 All of my projects are available at : https://github.com/RadinaAvramova
 
 
-Language and tools : [![My Skills](https://skills.thijs.gg/icons?i=js,typescript,react,angular,nodejs,vue,html,css,c,mysql,mongodb,linux,git,)](https://skills.thijs.gg)
+Language and tools : [![My Skills](https://skills.thijs.gg/icons?i=js,typescript,react,angular,nodejs,vue,html,css,c,mysql,mongodb,linux,git)](https://skills.thijs.gg)
 
 
 
