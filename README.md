@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Radina, a passionate programmer currently following the JavaScript curriculum at Software University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, React, Angular, TypeScript,Vue, Node.js, MongoDB, and other cutting-edge technologies.
+I'm Radina, a passionate programmer currently following the JavaScript curriculum at Software University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, React, Angular, TypeScript, Vue, Node.js, MongoDB, and other cutting-edge technologies.
 
 ## 💡 About Me
 - 🔭 I’m currently working on my portfolio projects for Junior Front End jobs
