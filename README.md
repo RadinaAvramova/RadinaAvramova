@@ -1,13 +1,13 @@
 # Hey there! 👋
 
-I'm Radina, a passionate programmer currently following the JavaScript curriculum at Software University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, React, Angular, TypeScript, Vue, Node.js, MongoDB, and other cutting-edge technologies.
+I'm Radina, a passionate programmer who recently completed the JavaScript curriculum at SoftUni University. My journey has taken me through various modules covering fundamental to advanced concepts in the language. Currently, I am focused on enhancing my skills in front-end and back-end technologies, developing various projects with different technologies, and continually expanding my knowledge in the dynamic field of web development.
 
 ## 💡 About Me
 - 🔭 I’m currently working on my portfolio projects for Junior Front End jobs
 - 🌱 I’m currently learning in Software University in Sofia.
 - 👨‍💻 All of my projects are available at : https://github.com/RadinaAvramova
-- ⚡ I'm always open to new opportunities to expand my skill set.
-- 🌟 Satisfied for this year and motivated for the next.
+- ⚡ Always open to new opportunities for skill expansion.
+- 🌟 Satisfied with the progress from the past year, and motivated to keep pushing for more challenges ahead.
 
 ## 🚀 Current Focus
 
