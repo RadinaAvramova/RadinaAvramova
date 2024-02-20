@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Radina, a passionate programmer who recently completed the JavaScript curriculum at Software University. My journey has taken me through various modules covering fundamental to advanced concepts in the language. Currently, I am focused on enhancing my skills in front-end and back-end technologies, developing various projects with different technologies, and continually expanding my knowledge in the dynamic field of web development.
+I'm Radina, a passionate programmer who recently completed the JavaScript curriculum at Software University. My journey has taken me through various modules covering fundamental to advanced concepts in the language. Currently, I am focused on enhancing my skills in front-end and back-end technologies, developing various projects with different technologies, and continually expanding my knowledge in the dynamic field of programming.
 
 ## 💡 About Me
 - 🔭 I’m currently working on my portfolio projects for Junior Software Developer jobs
